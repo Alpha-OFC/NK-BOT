@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node nkbot.js",
-    "test": "supervisor nkbot"
+    "test": "supervisor NeKotine"
   },
   "keywords": [
     "termux",
